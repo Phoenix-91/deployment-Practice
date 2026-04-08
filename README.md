@@ -1,5 +1,7 @@
 # Deployment Architecture & Infrastructure
 
+**📥 Download the `.excalidraw` files and open them in [Excalidraw](https://excalidraw.com) to view and edit the diagrams.**
+
 This repository contains deployment architecture diagrams, infrastructure configuration, and CDN/object storage documentation for the application infrastructure.
 
 ## 📋 Overview
