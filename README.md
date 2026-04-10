@@ -14,6 +14,7 @@ This project provides visual documentation and planning resources for deploying 
 
 - **Deployment-Exelidraw-1.excalidraw** - Main deployment architecture diagram showing the overall infrastructure setup and deployment flow
 - **CDN and Object Storage (S3 or cloudfront).excalidraw** - CDN and object storage configuration options, demonstrating S3 and CloudFront integration patterns
+- **Cloudflare Tunnels.excalidraw** - Cloudflare Tunnels configuration for secure, private connectivity and edge network setup
 
 ## 🏗️ Architecture Components
 
